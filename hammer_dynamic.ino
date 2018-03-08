@@ -1,3 +1,10 @@
+/*
+Microcontroller code for the physical Sledgehammer
+Arduino code for an ATMEGA 32u4
+
+Authors: Manuel Eberl <eberlm@in.tum.de>, Julian Brunner
+*/
+
 #include <Keyboard.h>
 
 #define NSAMPLES 40     // Number of samples to take
